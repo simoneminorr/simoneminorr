@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+this is me doing part 2 of lab 2
+
 <!--
 **simoneminorr/simoneminorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
